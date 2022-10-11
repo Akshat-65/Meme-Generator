@@ -1,2 +1,2 @@
 You can create numerous cool memes by using this app.
-This project uses the React hooks and conditionals along with fetching the data from an API.
+In this project we have used API to fetch data along with React hooks and conditionals.
